@@ -18,9 +18,9 @@ pip install requests
 
 ## Usage
 
-To use this module you have to get bearer token (**!elevated access!**) from [this](https://apps.twitter.com/) site and then insert them [here](https://github.com/OlesiaOmelchuk/Twitter_API_Lab_2/blob/main/hidden.py)
+To use this module you have to get bearer token (**!elevated access!**) from [this](https://apps.twitter.com/) site and then insert it [here](https://github.com/OlesiaOmelchuk/Twitter_API_Lab_2/blob/main/hidden.py)
 
-Then you can visit [this]() site, type the Twitter nickname and press the button.
+Then you can visit [this](http://olesia.pythonanywhere.com/) site, type the Twitter nickname and press the button.
 
 <img src='images/Screenshot from 2022-02-18 21-37-31.png'>
 
